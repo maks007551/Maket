@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # maket1
-# maket1
-=======
-# Maket
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
  <head>
@@ -95,4 +91,3 @@
   
  </body>
 </html>
->>>>>>> 09abeee76bb1eb51cee1f976f6dc78acee558064
